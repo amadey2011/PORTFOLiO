@@ -1,0 +1,66 @@
+.div1
+    {
+        background-color: red;
+        height:100%;
+        width:1200px;
+        margin-left: 150px;
+    }
+    .header
+    {
+        background-color:black;
+        height:60px;
+        width:1200px;
+      
+    }
+    .sidenav
+    {
+        background-color:green;
+        height:600px;
+        width:200px;
+        float:left;
+     
+    }
+    .content
+    {
+        background-color:yellow;
+        height:550px;
+        width:750px;
+        float:right;
+        margin-right:100px;
+        margin-top: 30px;;
+     
+    }
+    .dp
+    {
+        background-color:pink;
+        height:200px;
+        width:200px;
+        border-radius:200px;
+       
+     
+    }
+    h1{
+        color:white;
+    }
+
+nav
+{
+    float:center; 
+margin-top: 10 px;
+font-size: 24 px;
+   }
+nav  a
+{
+
+    padding: 20px 20px;
+    text-decoration: dashed;
+}
+#Logo img { margin: 0px 0px;
+}
+.content
+{
+    color: lightskyblue;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:25px;
+    text-shadow: 1px 1px green;
+}
